@@ -1,2 +1,3 @@
 # Machine-Learning-practice
 Some machine learning practice and homework.......
+Each dir has some python files and a markdown file (experiment report) written in Chinese
